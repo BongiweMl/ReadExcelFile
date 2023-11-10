@@ -1,0 +1,8 @@
+C:\Users\BongiweML\source\repos\ClientExcel\ClientExcel\bin\Debug\ClientExcel.exe.config
+C:\Users\BongiweML\source\repos\ClientExcel\ClientExcel\bin\Debug\ClientExcel.exe
+C:\Users\BongiweML\source\repos\ClientExcel\ClientExcel\bin\Debug\ClientExcel.pdb
+C:\Users\BongiweML\source\repos\ClientExcel\ClientExcel\obj\Debug\ClientExcel.csproj.AssemblyReference.cache
+C:\Users\BongiweML\source\repos\ClientExcel\ClientExcel\obj\Debug\ClientExcel.csproj.ResolveComReference.cache
+C:\Users\BongiweML\source\repos\ClientExcel\ClientExcel\obj\Debug\ClientExcel.csproj.CoreCompileInputs.cache
+C:\Users\BongiweML\source\repos\ClientExcel\ClientExcel\obj\Debug\ClientExcel.exe
+C:\Users\BongiweML\source\repos\ClientExcel\ClientExcel\obj\Debug\ClientExcel.pdb
